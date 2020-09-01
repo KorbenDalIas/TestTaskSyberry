@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\TestTask\TestTask\DatabaseCreation\bin\Debug\DatabaseCreation.exe.config
+C:\Users\user\Desktop\TestTask\TestTask\DatabaseCreation\bin\Debug\DatabaseCreation.exe
+C:\Users\user\Desktop\TestTask\TestTask\DatabaseCreation\bin\Debug\DatabaseCreation.pdb
+C:\Users\user\Desktop\TestTask\TestTask\DatabaseCreation\bin\Debug\dbup-core.dll
+C:\Users\user\Desktop\TestTask\TestTask\DatabaseCreation\bin\Debug\dbup-sqlserver.dll
+C:\Users\user\Desktop\TestTask\TestTask\DatabaseCreation\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\user\Desktop\TestTask\TestTask\DatabaseCreation\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\user\Desktop\TestTask\TestTask\DatabaseCreation\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\user\Desktop\TestTask\TestTask\DatabaseCreation\obj\Debug\DatabaseCreation.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TestTask\TestTask\DatabaseCreation\obj\Debug\DatabaseCreation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TestTask\TestTask\DatabaseCreation\obj\Debug\DatabaseCreation.csproj.CopyComplete
+C:\Users\user\Desktop\TestTask\TestTask\DatabaseCreation\obj\Debug\DatabaseCreation.exe
+C:\Users\user\Desktop\TestTask\TestTask\DatabaseCreation\obj\Debug\DatabaseCreation.pdb

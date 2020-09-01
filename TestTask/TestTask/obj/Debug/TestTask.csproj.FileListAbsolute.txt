@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\TestTask\TestTask\TestTask\bin\Debug\TestTask.exe.config
+C:\Users\user\Desktop\TestTask\TestTask\TestTask\bin\Debug\TestTask.exe
+C:\Users\user\Desktop\TestTask\TestTask\TestTask\bin\Debug\TestTask.pdb
+C:\Users\user\Desktop\TestTask\TestTask\TestTask\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\TestTask\TestTask\TestTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\TestTask\TestTask\TestTask\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\TestTask\TestTask\TestTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\TestTask\TestTask\TestTask\obj\Debug\TestTask.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TestTask\TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TestTask\TestTask\TestTask\obj\Debug\TestTask.csproj.CopyComplete
+C:\Users\user\Desktop\TestTask\TestTask\TestTask\obj\Debug\TestTask.exe
+C:\Users\user\Desktop\TestTask\TestTask\TestTask\obj\Debug\TestTask.pdb
